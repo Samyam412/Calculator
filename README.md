@@ -5,7 +5,7 @@
 This is a Readme for Softwarica College of It and E-commerce to match the video tutorial on the Basic caclulator app
 
 This app is created using Python programming language and uses tkinter library.
-You can perform basic mathematical operations like addition, subtraction, multiplication, division and decimal operations by the ue of this app.
+You can perform basic mathematical operations like addition, subtraction, multiplication, division and decimal operations by the use of this app.
 
 ---
 ## Links
